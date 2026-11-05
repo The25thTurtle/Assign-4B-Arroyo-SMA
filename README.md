@@ -1,2 +1,1 @@
-# SHangout
-Learn it, add something and have fun with this thing! :)
+Developed a web-based social media application featuring user accounts, profiles, status updates, and messaging functionality. Utilized HTML, CSS, JavaScript, PHP, and MySQL to support the application's frontend and backend functionality.
